@@ -1,4 +1,4 @@
-package createthread;
+package howToCreateAThread;
 
 public class inheritAndRunnableStyle {
     public static void main(String[] args) {

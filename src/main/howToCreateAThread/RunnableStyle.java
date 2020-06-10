@@ -1,4 +1,4 @@
-package createthread;
+package howToCreateAThread;
 
 public class RunnableStyle implements Runnable{
 

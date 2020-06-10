@@ -1,6 +1,4 @@
-package startthread;
-
-import sun.java2d.pipe.SpanIterator;
+package howToStartAThread;
 
 public class StartThreadTwice {
     public static void main(String[] args) {

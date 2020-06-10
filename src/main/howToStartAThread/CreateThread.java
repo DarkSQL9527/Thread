@@ -1,4 +1,4 @@
-package startthread;
+package howToStartAThread;
 
 public class CreateThread {
     public static void main(String[] args) {
